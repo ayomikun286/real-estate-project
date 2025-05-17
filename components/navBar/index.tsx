@@ -3,7 +3,7 @@ import React, { Fragment } from "react";
 import Link from "next/link";
 import SearchIcon from "@/assets/svgs/SearchIcon";
 import UserIcon from "@/assets/svgs/UserIcon";
-import Button from "@/componnets/buttons/Button";
+import Button from "@/components/buttons/Button";
 import HouseImg from "@/assets/svgs/HouseImg";
 import LocationIcon from "@/assets/svgs/LocationIcon";
 import LogoIcon from "@/assets/svgs/LogoIcon";
